@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Nathalia
+-Profissão: Atendente
+-Cidade: São Paulo
+-O que faz nas horas vaga: Estudo e desenho
+-Feedback sobre o curso Qualidade de Software: ótima didatica
+-Feedback sobre a plataforma de estudo da EBAC: ótima acessibildiade
+
+Obrigado!!!
+
+
